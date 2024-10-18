@@ -23,7 +23,7 @@ Our system consists of the following hardware components:
 
 ### 1. BNO055 (Orientation Sensor) - Sensor 1
 
-<img src="https://thepihut.com/cdn/shop/products/adafruit-9-dof-absolute-orientation-imu-fusion-breakout-bno055-adafruit-ada2472-28610646180035_1000x.jpg?v=1646731087" alt="BNO055 Orientation Sensor" style="width: 400px; height: 400px; display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://thepihut.com/cdn/shop/products/adafruit-9-dof-absolute-orientation-imu-fusion-breakout-bno055-adafruit-ada2472-28610646180035_1000x.jpg?v=1646731087" alt="BNO055 Orientation Sensor" style="width: 400px; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 
 
 The **BNO055** is a orientation sensor that provides highly accurate measurements of the user’s posture. It integrates a gyroscope, accelerometer, and magnetometer, and outputs the user's position in the form of Euler angles.
@@ -36,7 +36,7 @@ The **BNO055** is a orientation sensor that provides highly accurate measurement
 
 ### 2. DHT22 (Temperature and Humidity Sensor) - Sensor 2
 
-<img src="https://thepihut.com/cdn/shop/files/gravity-dht22-temperature-humidity-sensor-dfrobot-sen0137-40833584562371_800x.jpg?v=1693490169" alt="BNO055 Orientation Sensor" style="width: 400px; height: 400px; display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://thepihut.com/cdn/shop/files/gravity-dht22-temperature-humidity-sensor-dfrobot-sen0137-40833584562371_800x.jpg?v=1693490169" alt="BNO055 Orientation Sensor" style="width: 400px; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 
 The **DHT22** is a sensor that measures both temperature and humidity. In this project, the DHT22 is used to monitor the temperature inside the wearable system, ensuring that the components (especially the battery) do not overheat and remain within safe operating limits.
 
@@ -46,7 +46,7 @@ The **DHT22** is a sensor that measures both temperature and humidity. In this p
 ----------
 
 ### 3. ESP8266 (Microcontroller)
-<img src="https://thepihut.com/cdn/shop/products/assembled-adafruit-feather-huzzah-with-esp8266-with-headers-adafruit-ada3046-28610359689411_1000x.jpg?v=1646649187" alt="BNO055 Orientation Sensor" style="width: 400px; height: 400px; display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://thepihut.com/cdn/shop/products/assembled-adafruit-feather-huzzah-with-esp8266-with-headers-adafruit-ada3046-28610359689411_1000x.jpg?v=1646649187" alt="BNO055 Orientation Sensor" style="width: 400px; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 
 
 The **ESP8266** is a Wi-Fi-enabled microcontroller that serves as the brain of the system. It handles sensor data, processes the posture information, and controls the actuators when necessary.
@@ -58,7 +58,7 @@ The **ESP8266** is a Wi-Fi-enabled microcontroller that serves as the brain of t
 ----------
 
 ### 4. Piezo Buzzer - Actuator 1
-<img src="https://thepihut.com/cdn/shop/products/piezo-buzzer-ps1240-the-pi-hut-104255-40272443572419_800x.jpg?v=1678873479" alt="BNO055 Orientation Sensor" style="width: 400px; height: 400px; display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://thepihut.com/cdn/shop/products/piezo-buzzer-ps1240-the-pi-hut-104255-40272443572419_800x.jpg?v=1678873479" alt="BNO055 Orientation Sensor" style="width: 400px; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 
 The **Piezo Buzzer** is a simple sound-producing device that generates a beeping sound when activated. It is used as an auditory alert to signal the user when poor posture is detected.
 
@@ -80,7 +80,7 @@ The **Vibration Motor** provides haptic feedback in the form of vibrations. When
 
 ### 6. LiPo Battery (Power Source)
 
-<img src="https://thepihut.com/cdn/shop/products/2000mah-3-7v-lipo-battery-the-pi-hut-105187-39650305409219_1000x.jpg?v=1664378081" alt="LiPo Battery" style="width: 400px; height: 400px; display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://thepihut.com/cdn/shop/products/2000mah-3-7v-lipo-battery-the-pi-hut-105187-39650305409219_1000x.jpg?v=1664378081" alt="LiPo Battery" style="width: 400px; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 
 The **LiPo (Lithium Polymer) Battery** provides power to the entire system, ensuring that the sensors, microcontroller, and actuators function reliably without needing a direct power connection.
 
