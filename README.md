@@ -44,7 +44,7 @@ This repository contains the hardware architecture and related documentation for
    git clone https://github.com/Posture-Pal/Hardware_Architecture.git
    cd Hardware_Architecture
    ```
-2. Review the diagrams in the `diagrams/` folder for the physical and Fritzing layouts.
+2. Check the root folder for diagrams, including `PhysicalArchitecture.png` and `FinalFritzingDiagram_bb.png`.
 3. Refer to the `system_hardware_description.md` for detailed insights into sensor functionalities.
 
 ---
